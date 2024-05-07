@@ -9,7 +9,7 @@ function App() {
         <p>FullName: Hoàng Hiếu Linh </p>
         <p>Class: SE17D08</p>
         <p>School: FPT UNIVERSITY</p>
-        <p>Description: I am 22 years old. My major is SE.</p>
+        <p>Description: I am 22 years old.</p>
       </header>
     </div>
   );
